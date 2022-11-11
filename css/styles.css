@@ -1,0 +1,189 @@
+body {
+  background-color: #FAF7F0;
+  margin:0;
+  text-align: center;
+  /*font-family: 'Merriweather', serif;*/
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+img {
+  display: inline-block;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+h2 {
+  color: #98A8F8;
+  font-size: 2em;
+}
+
+h3{
+  color:#BCCEF8;
+}
+
+hr {
+  border-color: #CFD2CF;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 80px auto;
+}
+
+p {
+  color: black;
+  font-family: "Cormorant Garamond", sans-serif;
+  font-size: 1.2em;
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+
+.top-div {
+  margin-left: 0;
+  background-color: #CDFCF6;
+  padding-top: 100px;
+  height: 88vh;
+}
+
+.name {
+font-size:562.5%; /* 100% = 16px = 1em */
+margin: 50px auto 0 auto;
+font-family: 'WindSong', cursive;
+/*font-family: 'Sacramento', cursive;*/
+color: #98A8F8;
+font-weight: lighter;
+line-height: 1;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left:300px;
+  top: 250px;
+  width: 15%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 12%;
+}
+
+.mountain {
+  position:absolute;
+  bottom: 0;
+  left: 355px;
+  width: 50%;
+}
+
+.a-programmer {
+  color:#98A8F8;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:lighter;
+  font-size:25px;
+}
+
+.middle-container{
+  background-color: #FAF7F0;
+}
+
+.bottom-container{
+  background-color: #BCCEF8;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #98A8F8;
+  line-height: 2;
+}
+
+.contact-me {
+  line-height: 3;
+  background-color: #FAF7F0;
+  padding-bottom: 50px;
+
+}
+
+.leah {
+  width:10%;
+  margin: 100px auto 0 auto;
+}
+
+.skill1 {
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+.skill1:hover {
+  opacity: 0.7;
+}
+
+.skill2 {
+  width:20%;
+  float: right;
+  margin-left: 30px;
+}
+.skill2:hover {
+  opacity: 0.7;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #98A8F8;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.watermark {
+  color:white;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+  color: #ffffff;
+  font-size: 15px;
+  background: #98A8F8;
+  padding: 17px 30px 17px 30px;
+  text-decoration: none;
+  margin: 50px auto;
+}
+
+.btn:hover {
+  background: #7082e0;
+  text-decoration: none;
+}
+
+.getintouch{
+  line-height: 1.5;
+}
+
+.hi{
+  font-size: 1.5em;
+}
+
+.profile{
+  line-height: 2;
+}
+
+.skills{
+  line-height: 2;
+}
